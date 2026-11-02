@@ -125,6 +125,16 @@
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Button.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Particles.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Button.h" />
+    <ClInclude Include="DuckTools.h" />
+    <ClInclude Include="Particles.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
     <Import Project="..\packages\raylib.6.2.0\build\native\raylib.targets" Condition="Exists('..\packages\raylib.6.2.0\build\native\raylib.targets')" />
