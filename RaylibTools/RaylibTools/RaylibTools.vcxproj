@@ -22,7 +22,7 @@
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{e739a61a-b52b-4630-8f75-3c68aa9f7edc}</ProjectGuid>
-    <RootNamespace>BrickBreaker</RootNamespace>
+    <RootNamespace>RaylibTools</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
